@@ -1,0 +1,14 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="#E65100" /> <!-- Cor laranja escura para estado pressionado -->
+            <corners android:radius="8dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="#FFA500" /> <!-- Cor laranja -->
+            <corners android:radius="8dp" />
+        </shape>
+    </item>
+</selector>

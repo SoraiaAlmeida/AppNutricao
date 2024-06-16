@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">App ADS Nutri</string>
+    <string name="app_logo">App Logo</string>
+    <string name="navigation_drawer_open">Abrir navegação</string>
+    <string name="navigation_drawer_close">Fechar navegação</string>
+
+    <!-- LoginActivity -->
+    <string name="login">Login</string>
+    <string name="password">Senha</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Registrar</string>
+
+    <!-- RegisterActivity -->
+    <string name="height">Altura</string>
+    <string name="age">Idade</string>
+    <string name="weight">Peso</string>
+    <string name="register_user_button">Registrar Usuário</string>
+
+    <!-- MainActivity -->
+    <string name="add_food_button">Cadastrar Alimento</string>
+    <string name="view_diet_plan_button">Ver Plano de Dieta</string>
+    <string name="view_profile_button">Ver Perfil</string>
+    <string name="logout_button">Logout</string>
+
+    <!-- AddFoodActivity -->
+    <string name="plan_name">Nome do Plano</string>
+    <string name="meal_type">Tipo de Refeição</string>
+    <string name="meal_description">Descrição da Refeição</string>
+    <string name="save_meal_button">Salvar Refeição</string>
+
+    <!-- Dropdown options for meal types -->
+    <string-array name="meal_types">
+        <item>Café da manhã</item>
+        <item>Almoço</item>
+        <item>Jantar</item>
+        <item>Pre treino</item>
+        <item>Pos treino</item>
+    </string-array>
+
+    <!-- Items for Spinners -->
+    <string-array name="plan_types">
+        <item>Emagrecer</item>
+        <item>Ganhar Massa</item>
+        <item>Manter Peso</item>
+        <item>Saudável</item>
+    </string-array>
+
+    <!-- ViewDietPlanActivity -->
+    <string name="no_plan_message">Nenhum plano encontrado</string>
+
+    <!-- ViewProfileActivity -->
+    <string name="save_profile_button">Salvar Perfil</string>
+    <string name="profile_updated_message">Perfil atualizado com sucesso</string>
+
+    <!-- Errors and exceptions -->
+    <string name="login_required">Login e senha são obrigatórios.</string>
+    <string name="user_not_found">Usuário não encontrado.</string>
+</resources>
