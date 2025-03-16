@@ -39,4 +39,3 @@ Este projeto é um aplicativo de nutrição desenvolvido como parte do trabalho 
 - **Pacote Model**: Contém as classes de modelo que representam os dados do aplicativo, como `Paciente`, `Alimento`, etc.
 - **Pacote Controller**: Contém a lógica de controle do aplicativo, como os controladores responsáveis pelo CRUD.
 - **Pacote View**: Responsável pela interface com o usuário, utilizando fragmentos para exibir as telas de cadastro e consultas.
-
