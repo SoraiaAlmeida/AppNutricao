@@ -15,6 +15,25 @@ Este projeto é um aplicativo de nutrição desenvolvido como parte do trabalho 
 - **Framework**: Android Studio
 - **Banco de dados**: SQLite
 
+## 📷 Capturas de Tela
+### 🔹 Tela de Login  
+![Tela de Login](screenshots/tela_login.png)
+
+### 🔹 Tela Inicial  
+![Tela Inicial](screenshots/tela_inicial.png)
+
+### 🔹 Cadastro de Paciente  
+![Cadastro de Paciente](screenshots/cadastro_paciente.png)
+
+### 🔹 Perfil do Paciente  
+![Perfil do Paciente](screenshots/perfil.png)
+
+### 🔹 Plano Alimentar  
+![Plano Alimentar](screenshots/plano_alimentar.png)
+
+### 🔹 Plano de Dieta Registrado  
+![Plano de Dieta Registrado](screenshots/plano_dieta_registrado.png)
+
 ## Estrutura do Projeto
 
 - **Pacote Model**: Contém as classes de modelo que representam os dados do aplicativo, como `Paciente`, `Alimento`, etc.
