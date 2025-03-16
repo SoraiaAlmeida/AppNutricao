@@ -17,22 +17,22 @@ Este projeto é um aplicativo de nutrição desenvolvido como parte do trabalho 
 
 ## 📷 Capturas de Tela
 ### 🔹 Tela de Login  
-![Tela de Login](screenshots/tela_login.png)
+![Tela de Login](screenshots/tela_login.jpg)
 
 ### 🔹 Tela Inicial  
-![Tela Inicial](screenshots/tela_inicial.png)
+![Tela Inicial](screenshots/tela_inicial.jpg)
 
 ### 🔹 Cadastro de Paciente  
-![Cadastro de Paciente](screenshots/cadastro_paciente.png)
+![Cadastro de Paciente](screenshots/cadastro_paciente.jpg)
 
 ### 🔹 Perfil do Paciente  
-![Perfil do Paciente](screenshots/perfil.png)
+![Perfil do Paciente](screenshots/perfil.jpg)
 
 ### 🔹 Plano Alimentar  
-![Plano Alimentar](screenshots/plano_alimentar.png)
+![Plano Alimentar](screenshots/plano_alimentar.jpg)
 
 ### 🔹 Plano de Dieta Registrado  
-![Plano de Dieta Registrado](screenshots/plano_dieta_registrado.png)
+![Plano de Dieta Registrado](screenshots/plano_dieta_registrado.jpg)
 
 ## Estrutura do Projeto
 
